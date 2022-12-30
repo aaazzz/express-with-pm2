@@ -1,7 +1,4 @@
-# Share Images with QR code ⚡⚡
-1. Select your file and upload it
-2. Share the generated QR code
-
+# Run ExpressJS with PM2
 ## local 
 ```bash
 npm run serve
